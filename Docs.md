@@ -1,5 +1,5 @@
 # Vape Library
-This documentation is for the stable release of Fape Library.
+This documentation is for the stable release of Vape Library.
 
 ## Booting the Library
 ```lua
