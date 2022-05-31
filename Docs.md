@@ -24,7 +24,7 @@ local tab = win:Tab("Tab 1")
 ## Creating a Button
 ```lua
 tab:Button("Button", function()
-lib:Notification("Notification", "Hello!", "Hi!")
+print("Vape Ontop")
 end)
 ```
 
@@ -35,7 +35,10 @@ tab:Toggle("Toggle",false, function(t)
 print(t)
 end)
 ```
-
+## Creating A Notification
+```lua
+lib:Notification("Notification", "Hello!", "Hi!")
+```
 
 ## Creating a Color Picker
 ```lua
